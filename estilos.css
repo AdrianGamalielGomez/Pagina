@@ -1,0 +1,50 @@
+/* Estilo para el header */
+header {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilo para el main */
+main {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+/* Estilo para las imágenes del catálogo */
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Estilo para los enlaces de compra */
+a {
+  color: #008080;
+  text-decoration: none;
+}
+
+/* Estilo para el footer */
+footer {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+Este código CSS proporciona estilos básicos para los elementos header, main, img, a y footer de tu página web. Puedes modificar los estilos según tus necesidades y agregar más estilos para otros elementos de la página.
+
+Para utilizar este código CSS en tu página web, debes incluir una etiqueta <link> en la sección <head> de tu archivo HTML que apunte al archivo CSS:
+
+Copy code
+<head>
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+Asegúrate de que el nombre del archivo y la ruta estén correctas.
+
+Copy
+1258 chars / 206 words
+
+
+
